@@ -40,10 +40,8 @@ namespace LeetcodeSoultions.app.December
                         result.Append(" ");
                         j++;
                     }
-
                     result.Append(s[i]);
                 }
-
                 return result.ToString();
             }
         }
